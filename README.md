@@ -7,6 +7,7 @@ To run this notebook you'll need to install jupyter notebooks: https://jupyter.o
 To run this notebook as a standalone app you'll need to install voila: https://voila.readthedocs.io/en/stable/install.html and then enter the "voila la_aq_health_v1.ipynb" command into terminal. You can remove the markdown cells in the notebook to only display the app.
 
 You'll also need the following python libraries to run this notebook:
+
 netCDF4: https://unidata.github.io/netcdf4-python/
 
 ipywidgets: https://ipywidgets.readthedocs.io/en/stable/user_install.html
