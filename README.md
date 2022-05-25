@@ -27,6 +27,6 @@ matplotlib: https://matplotlib.org/stable/users/installing/index.html
 
 
 
-Files used in this notebook are accessible at: http://adjoint.colorado.edu/~jplaqacf/
+Files used in this notebook are accessible at: http://adjoint.colorado.edu/~jplaqacf/v1/
 
 For further questions email muna9068@colorado.edu
