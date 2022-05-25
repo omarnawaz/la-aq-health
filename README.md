@@ -8,10 +8,15 @@ To run this notebook as a standalone app you'll need to install voila: https://v
 
 You'll also need the following python libraries to run this notebook:
 netCDF4: https://unidata.github.io/netcdf4-python/
+
 ipywidgets: https://ipywidgets.readthedocs.io/en/stable/user_install.html
+
 xarray: https://docs.xarray.dev/en/stable/getting-started-guide/installing.html
+
 numpy: https://numpy.org/install/
+
 matplotlib: https://matplotlib.org/stable/users/installing/index.html
+
 
 Files used in this notebook are accessible at: http://adjoint.colorado.edu/~jplaqacf/
 
