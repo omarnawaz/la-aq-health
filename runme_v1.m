@@ -13,7 +13,7 @@ clear; clc; close all; tic;
 %% Settings
 
 % Path to script
-base_dir = '/Volumes/2TBHDD/data/Research/Projects/URBAN/scripts/CAL2035/';
+base_dir = './';
 % City Initials
 INIT     = 'LOS';
 % City Name
